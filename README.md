@@ -1,2 +1,6 @@
 # firebase-demo-fe
-Start Client: firebase serve
+## Running the app
+
+```bash
+# development
+$ firebase serve
